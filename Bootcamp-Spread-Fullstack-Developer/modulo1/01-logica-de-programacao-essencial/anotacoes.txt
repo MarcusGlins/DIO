@@ -2,4 +2,7 @@
 						| Lógica de Programação Essencial |
 						|=================================|
 
-	Os conteúdos abordados são realmente essenciais. Então, devo continuar buscando outros materiais para melhorar a técnica e o exercício do raciocínio lógico para programação.
+	Os conteúdos abordados são realmente essenciais. Então, devo continuar buscando outros materiais para melhorar a 
+técnica e o exercício do raciocínio lógico para programação.
+
+	1 - Vou utilizar um livro que tenho a um certo tempo: Lógica de Programação (Casa do Código).
