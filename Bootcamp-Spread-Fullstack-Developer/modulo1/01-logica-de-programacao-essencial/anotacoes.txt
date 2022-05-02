@@ -23,4 +23,6 @@ técnica e o exercício do raciocínio lógico para programação.
 
 	CAPÍTULO 02 - Comunique-se com o usuário
 		2.1 - Dê olá ao mundo de outras formas
+			Nesse tópico, utilizamos a função alert para exibir mensagens na tela e também document.write, para escrever diretamente na página.
+		2.2 - Trabalhe com números
 			
