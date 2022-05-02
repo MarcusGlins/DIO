@@ -6,3 +6,21 @@
 técnica e o exercício do raciocínio lógico para programação.
 
 	1 - Vou utilizar um livro que tenho a um certo tempo: Lógica de Programação (Casa do Código).
+	
+	CAPÍTULO 01 - Comece a programar hoje.
+		1.1 - Converse com seu navegador
+			É uma introdução a como utilizar o navegador para exibir os códigos criados (OK).
+		1.2 - Criando seu próprio arquivo HTML
+			Nesse tópico criei meu primeiro código e o exibi no navegador (OK).
+		1.3 - Um pouco mais de HTML
+			Nesse tópico são apresentadas algumas tags html mais utilizadas (OK).
+		1.4 - Dê olá ao mundo
+			Nesse tópico utilizamos a tag script para exibir códigos javascript (OK).
+		1.5 - Revise seu código: Seu primeiro programa
+			Nesse tópico fiz algumas melhorias no código sugeridas pelo livro (OK).
+		1.6, 1.7 e 1.8
+			São tópicos do livro onde são citados os sites para tirar as dúvidas e outras dicas (OK).
+
+	CAPÍTULO 02 - Comunique-se com o usuário
+		2.1 - Dê olá ao mundo de outras formas
+			
