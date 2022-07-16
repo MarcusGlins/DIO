@@ -1,3 +1,0 @@
-
-	Esse curso serviu como revisão de conteúdos, visto que algumas funcionalidades dentro do GitHub 
-já foram melhoradas e outras modificadas completamente. Um bom exemplo é o uso de tokens e o acesso via chave ssh.
