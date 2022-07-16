@@ -1,4 +1,4 @@
 # DIO
-Repositório para registro das atividades dos cursos e bootcamps da DIO.
+Registro de atividades dos bootcamps da DIO.
 
 - [ ] - Java Developer
